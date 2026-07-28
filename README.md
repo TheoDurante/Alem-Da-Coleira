@@ -3,6 +3,11 @@
 <img width="3508" height="2480" alt="AdC Capa" src="https://github.com/user-attachments/assets/7ad41ff7-181f-4044-a36f-8e3a8427eb36" />
 
 
+Tools Used: Unity, C#, Adobe PhotoShop and Adobe Illustrator
+
+
+My roles on the team: Game Designer and Visual Designer
+
 
 How to Play:
 
